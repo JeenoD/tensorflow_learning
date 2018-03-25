@@ -1,7 +1,7 @@
 """
 # @Author : Jeeno
 # @Time   : 2018/3/25 15:54
-# @File   : demo_LinearRegression.py
+# @File   : demo_NonLinearRegression.py
 # 代码出处： https://www.youtube.com/watch?v=k3O0VCHxw10&t=120s
 """
 import tensorflow as tf
